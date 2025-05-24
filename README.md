@@ -1,4 +1,4 @@
-![NixOS Configuration](https://i.imgur.com/lCKjPh8.png)
+![NixOS Configuration](https://i.imgur.com/gLRkZcY.png)
 
 > ⚠️ **Important:** This repository includes my personal `hardware-configuration.nix`, which is specific to my hardware setup.  
 > You **must replace it** with one generated for your system using `nixos-generate-config` to avoid compatibility issues.
